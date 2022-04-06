@@ -1,0 +1,25 @@
+.mainDiv{
+    height: 100vh;
+    /* background: yellow; */
+    margin: auto;
+}
+
+.main{
+    /* background:green; */
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main2{
+    /* background:pink; */
+    display: flex;
+    justify-content: center;
+}
+
+.main3{
+    /* background:purple; */
+    display: flex;
+    justify-content: center;
+}

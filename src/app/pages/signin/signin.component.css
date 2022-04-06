@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    min-height: 100%;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+form{
+    color:white;
+    font-size: 25px;
+}
+
+button{
+    font-size:24px
+}
